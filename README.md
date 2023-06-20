@@ -30,3 +30,16 @@ Versão do Unity: **2021.3.23f1**<br/>
 > ### Rode o jogo e mova a camera para trás do veículo
 
 ![][imagem-cameraAndPlay]
+
+---
+
+> ### Customize um *layout* próprio
+> - [x] No canto superior direito, mude o *layout* de “Default” para “Tall”.
+> - [x] Na janela de projeto, clique no canto superior direito e escolha “One-column layout”.
+> - [x] Na seta para baixo em *layout*, salve esse novo *layout* e chame de “My Layout”.
+
+[Link para o arquivo de layout.](/src/layout.wlt)
+
+---
+
+## Lesson 1.2 - Pedal to the Metal
