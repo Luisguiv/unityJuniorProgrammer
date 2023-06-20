@@ -1,5 +1,6 @@
 <!--- Imagens -->
 [imagem-addAndMove]:/media/addAndMove.gif
+[imagem-cameraAndPlay]:/media/cameraAndPlay.gif
 
 # unityJuniorProgrammer
 
@@ -27,3 +28,5 @@ Versão do Unity: **2021.3.23f1**<br/>
 ---
 
 > ### Rode o jogo e mova a camera para trás do veículo
+
+![][imagem-cameraAndPlay]
