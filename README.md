@@ -1,10 +1,5 @@
-<!--- Imagens
-
-[imagem-git]:https://t2.tudocdn.net/510706?w=646&h=284
-
-![][imagem-git]
-
--->
+<!--- Imagens -->
+[imagem-addAndMove]:/media/addAndMove.gif
 
 # unityJuniorProgrammer
 
@@ -26,3 +21,7 @@ Versão do Unity: **2021.3.23f1**<br/>
 > - [x] Na janela do projeto, abra **Assets > Course Library > Vehicles**, arraste o veículo para *Hierarchy*.
 > - [x] Vá para **Course Library > Obstacles** e arraste o objeto diretamento para *Scene view*.
 > - [x] Na aba *Inspector*, mude os eixos XYZ para x=0, y=0, z=25, e mova os objetos usando os eixos da *Scene view*.
+
+![][imagem-addAndMove]
+
+---
