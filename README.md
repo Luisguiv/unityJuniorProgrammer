@@ -2,6 +2,7 @@
 [imagem-addAndMove]:/media/addAndMove.gif
 [imagem-cameraAndPlay]:/media/cameraAndPlay.gif
 [imagem-moveVehicle]:/media/moveVehicle.gif
+[imagem-commentCode]:/media/commentCode.png
 
 # unityJuniorProgrammer
 
@@ -51,3 +52,4 @@ Versão do Unity: **2021.3.23f1**<br/>
 > - [x] Arraste o *script* para o objeto veículo na hieraquia.
 > - [x] Dentro do editor de texto, no método Update(), adicione o seguite comentário:  // Move the vehicle forward
 
+<img src="/media/commentCode.png" width="550" height="300"/>
