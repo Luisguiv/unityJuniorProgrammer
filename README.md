@@ -58,3 +58,5 @@ Versão do Unity: **2021.3.23f1**<br/>
 > ### Mova o veículo para frente
 
 ![][imagem-moveVehicle]
+
+[Link para o script.](/src/PlayerController.cs)
