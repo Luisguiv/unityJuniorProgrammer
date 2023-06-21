@@ -1,6 +1,7 @@
 <!--- Imagens -->
 [imagem-addAndMove]:/media/addAndMove.gif
 [imagem-cameraAndPlay]:/media/cameraAndPlay.gif
+[imagem-moveVehicle]:/media/moveVehicle.gif
 
 # unityJuniorProgrammer
 
@@ -43,3 +44,10 @@ Versão do Unity: **2021.3.23f1**<br/>
 ---
 
 ## Lesson 1.2 - Pedal to the Metal
+
+> ### Criar o primeiro *script* e adicionar um comentário
+> - [x] Na janela do projeto, clique com o botão direito > *Create* > *Folder* e nomeie como “Scripts”.
+> - [x] Na pasta “Scripts”, clique com o botão direito > *Create* > *C# Script* e nomeie como “PlayerController”.
+> - [x] Arraste o *script* para o objeto veículo na hieraquia.
+> - [x] Dentro do editor de texto, no método Update(), adicione o seguite comentário:  // Move the vehicle forward
+
